@@ -1,2 +1,1 @@
-# tindog
-web design with full animation
+TinDog Starting Files
